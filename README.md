@@ -9,36 +9,34 @@ I'm a passionate Data Scientist with a strong foundation in Software Engineer. I
 - 💼 I aspire to bridge the gap between software engineering and data science, creating robust applications that leverage the power of data.
 
 ## What I'm Working On
-- 🚀 I'm currently working on a personal project to solidify my software development skills, including Scrum methodology, Gitflow version control, Clean Code principles, and API development.
-- 📊 I'm passionate about data analysis and visualization, and I'm exploring various datasets to apply machine learning and data mining techniques.
+- 🚀 I'm currently working on a personal project to solidify my software development skills, including SOLID principles, API development, Deployment through CI/CD.
+- 📊 I'm passionate about Data Science, Artificial Intelligence and Business. 
 
-## Tech Stack
+## Skills
 Here are some of the technologies and tools I'm proficient in:
 
-- Languages: Python, Java, JavaScript
-- Web Development: HTML, CSS, Flask
-- Data Science: Pandas, NumPy, Matplotlib, scikit-learn
-- Database: SQL, MongoDB
-- Version Control: Git, Gitflow
-- Frameworks: Hibernate
-- Software Design: Applying SOLID principles
-- API Development: RESTful APIs
-- Project Management: Scrum
+- Real Production Experience with Big Data Technologies (Spark)
+- NoSQL (MongoDB)
+- Agile Methodologies (GitFlow, MLflow) and Agile Tools (Jira, Git)
+- Certifications in Azure. Knowledge in Big Data (Databricks, MongoDB) and Cloud Architecture
+- Experience in Projects for Large Clients
+- Knowledge of Data Governance
 
 ## Connect with Me
-Let's connect and learn from each other! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/yourprofile) or [Twitter](https://twitter.com/yourhandle).
+Let's connect and learn from each other! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/andreisaavedra/)
 
 ## My Projects
 Here are some of the projects I've worked on:
 
-- [Project 1](link-to-project-1): A brief description of the project and its relevance to data science.
-- [Project 2](link-to-project-2): Another example project with a focus on software development and data analysis.
+- [Churn Prediction and Retention techniques] 
+- [Distance between Airplanes at boarding at Airport Barajas Madrid using Machine Learning Techniques]
+- [Facial Recognition using Convolutional Siamese Neural Networks]
 
 ## Goals
 I'm dedicated to growing my skills and achieving the following goals:
 
-- [ ] Contribute to open-source data science projects.
-- [ ] Publish articles or tutorials on data science topics.
-- [ ] Collaborate with fellow data enthusiasts on exciting projects.
+- [ ] Gain experience with Recommendation Engines, Data Pipelines, and Distributed Machine 
+- [ ] Development of A/B Testing Frameworks and Model Quality Testing
+- [ ] Understanding of Generative AI and Major Language Models (LLM)
 
 Thanks for visiting my GitHub profile! I'm excited about the journey ahead and the opportunities to collaborate and learn together.
